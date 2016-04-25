@@ -17,6 +17,11 @@
     "require-dev": {
         "behat/behat": "^3.1"
     },
+    "autoload": {
+        "psr-4": {
+            "CubicMushroom\\Symfony": "src/"
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-develop": "2.7-dev"
