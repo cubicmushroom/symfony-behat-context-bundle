@@ -1,2 +1,3 @@
-# symfony-behat-context-bundle
-Symfony bundle to add additional Symfony context
+# Symfony Behat Context Bundle #
+
+Symfony bundle to add additional Symfony context features
