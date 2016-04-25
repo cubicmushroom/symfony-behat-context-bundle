@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CubicMushroom\\Symfony": "src/"
+            "CubicMushroom\\Symfony\\": "src/"
         }
     },
     "extra": {
