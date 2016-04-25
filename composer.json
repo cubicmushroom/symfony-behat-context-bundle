@@ -1,0 +1,25 @@
+{
+    "name": "cubicmushroom/symfony-behat-context-bundle",
+    "version": "2.7.0-dev",
+    "description": "Symfony bundle to add additional Symfony context",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toby Griffiths",
+            "email": "toby@cubicmushroom.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/framework-bundle": "~2.7.0"
+    },
+    "require-dev": {
+        "behat/behat": "^3.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "2.7-dev"
+        }
+    }
+}
